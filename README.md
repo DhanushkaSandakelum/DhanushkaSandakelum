@@ -6,6 +6,26 @@ A Dedicated, Hardworking and motivated computer science undergraduate
 who is willing to contribute his maximum effort to the organization while 
 learning new technologies.
 
+### 🎲 Projects
+* [Online Student selection system for Higher Educational Institutes based 
+on the UGC Criteria]() - A web application for resolving the existing problems associating with the official 
+government university registration process. 
+* [elseware™ Games Official Website](http://elsewaregames.herokuapp.com/) - Website for publish PC and mobile games developed by elseware™ Games.
+* [Whiz](http://whiz.web.lk/index) - Whiz™ is established with the motive of creating a web-based platform for 
+collaboration among students, companies, universities, teachers and mentors to 
+request and share their services with each other.
+* [Rise of Rage](https://youtu.be/mEVj2OOunX0) - Third person shooter online multiplayer game where friends can play matches such 
+as Free for All, 1vs1 and Team Deathmatch
+* [Deadlock]() - Third person zombie apocalypse game. Single player PC and mobile game.
+* [Micro Hunt](https://play.google.com/store/apps/details?id=com.elsewaregames.MicroHunt&hl=en&gl=US) - Arcade mobile game with multiple levels and a storyline.
+* [Geeka](https://play.google.com/store/apps/details?id=com.elsewareGames.GeekaMobile&hl=en&gl=US) - Casual mobile game with fabulous environment, music and visual effects.
+
+
+
+### 📊 Stats
+
+![Dhanushka Sandakelum's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanushkasandakelum&show_icons=true&theme=gruvbox)
+
 ---
 
 ### 🧰 Languages and Tools
@@ -25,7 +45,7 @@ learning new technologies.
 
 #
 ###### Frameworks
-
+<div>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
@@ -35,21 +55,27 @@ learning new technologies.
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"/>
+</div>
 
 #
 ###### Game Engines
+<div>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"/>
+</div>
 
 #
 ###### Databases
+<div>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
+</div>
 
 #
 ###### Tools
+<div>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
@@ -58,11 +84,9 @@ learning new technologies.
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/>
+</div>
 
 #
----
 
-### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhanushkaSandakelum&show_icons=true&theme=gruvbox)
 
