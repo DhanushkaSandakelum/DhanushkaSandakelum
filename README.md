@@ -6,6 +6,20 @@ A Dedicated, Hardworking and motivated computer science undergraduate
 who is willing to contribute his maximum effort to the organization while
 learning new technologies.
 
+<p align="left">
+      <a href="https://www.youtube.com/channel/UCwjhCaqvvq_NxHv7Mv0a5Ww">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCwjhCaqvvq_NxHv7Mv0a5Ww?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://medium.com/@simpleepic">
+         <img alt="medium" title="medium" src="https://custom-icon-badges.demolab.com/badge/-Medium-black?style=for-the-badge&logoColor=white&logo=medium"/></a> 
+      <a href="https://www.linkedin.com/in/dhanushkasandakelum/">
+         <img alt="linkedin" title="linkedin" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-teal?style=for-the-badge&logoColor=white&logo=linkedin"/></a> 
+      <a href="https://web.facebook.com/profile.php?id=100013585875046">
+         <img alt="Facebook" title="Facebook" src="https://custom-icon-badges.demolab.com/badge/-Facebook-blue?style=for-the-badge&logoColor=white&logo=facebook"/></a> 
+      <a href="https://www.instagram.com/walking_albert/">
+         <img alt="instagram" title="instagram" src="https://custom-icon-badges.demolab.com/badge/-Instagram-purple?style=for-the-badge&logoColor=white&logo=instagram"/></a> 
+         
+   </p>
+
 ### 🎲 Projects
 
 - [Online Student selection system for Higher Educational Institutes based
@@ -21,19 +35,7 @@ learning new technologies.
 - [Micro Hunt](https://play.google.com/store/apps/details?id=com.elsewaregames.MicroHunt&hl=en&gl=US) - Arcade mobile game with multiple levels and a storyline.
 - [Geeka](https://play.google.com/store/apps/details?id=com.elsewareGames.GeekaMobile&hl=en&gl=US) - Casual mobile game with fabulous environment, music and visual effects.
 
-<p align="left">
-      <a href="https://www.youtube.com/channel/UCwjhCaqvvq_NxHv7Mv0a5Ww">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCwjhCaqvvq_NxHv7Mv0a5Ww?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://medium.com/@simpleepic">
-         <img alt="medium" title="medium" src="https://custom-icon-badges.demolab.com/badge/-Medium-black?style=for-the-badge&logoColor=white&logo=medium"/></a> 
-      <a href="https://www.linkedin.com/in/dhanushkasandakelum/">
-         <img alt="linkedin" title="linkedin" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-teal?style=for-the-badge&logoColor=white&logo=linkedin"/></a> 
-      <a href="https://web.facebook.com/profile.php?id=100013585875046">
-         <img alt="Facebook" title="Facebook" src="https://custom-icon-badges.demolab.com/badge/-Facebook-blue?style=for-the-badge&logoColor=white&logo=facebook"/></a> 
-      <a href="https://www.instagram.com/walking_albert/">
-         <img alt="instagram" title="instagram" src="https://custom-icon-badges.demolab.com/badge/-Instagram-purple?style=for-the-badge&logoColor=white&logo=instagram"/></a> 
-         
-   </p>
+
 
 ### 📊 Stats
 
