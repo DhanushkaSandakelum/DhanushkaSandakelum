@@ -1,10 +1,8 @@
 # 👋 Hi there, I'm Dhanushka Sandakelum
 
-**`Undergraduate of BSc. (Hons) in Computer Science`**
+**`Software Engineer, BSc. (Hons) in Computer Science`**
 
-A Dedicated, Hardworking and motivated computer science undergraduate
-who is willing to contribute his maximum effort to the organization while
-learning new technologies.
+A highly motivated and detail-oriented Software Engineer with a strong foundation in computer science. Passionate about building scalable solutions, optimizing system performance, and continuously exploring emerging technologies. Committed to delivering high-quality software while driving innovation and efficiency in every project.
 
 ### 📂 Download CV
 
@@ -16,7 +14,7 @@ You can download my CV to learn more about my background and experience:
 
 Check out my portfolio website to see some of my projects and learn more about me:
 
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-Visit%20Website-blue)](https://www.simpleepic.site/)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-Visit%20Website-blue)](https://www.dhanushkasandakelum.com/)
 
 You can reach me at [dhanushkasandakelum711@gmail.com](mailto:dhanushkasandakelum711@gmail.com) or connect with me on social media.
 
