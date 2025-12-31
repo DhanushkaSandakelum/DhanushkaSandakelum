@@ -33,9 +33,6 @@ Explore my work, content, and professional profiles through the links below:
   <a href="https://www.linkedin.com/in/dhanushkasandakelum/">
     <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-teal?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://web.facebook.com/dhanushkasand/">
-    <img alt="Facebook" title="Facebook" src="https://custom-icon-badges.demolab.com/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
   <a href="https://www.instagram.com/dhanushka_sand/">
     <img alt="Instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
