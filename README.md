@@ -43,12 +43,6 @@ Explore my work, content, and professional profiles through the links below:
 
 ---
 
-## 📊 GitHub Statistics
-
-![Dhanushka Sandakelum's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanushkasandakelum&show_icons=true&theme=gruvbox)
-
----
-
 _Always open to collaboration, learning, and building meaningful software._
 
 **Let’s create something impactful.**
